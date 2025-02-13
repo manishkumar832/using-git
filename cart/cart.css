@@ -1,0 +1,126 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+.cart{
+    height: 280px;
+    width: 16%;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.cart>img{
+    height: 200px;
+    width: 98%;
+    margin: 3px;
+}
+.btn>button{
+    margin: 3px;
+
+   background-color: aqua;
+}
+.cart p{
+    margin: 3px;
+}
+.cart span{
+    margin: 3px;
+}
+.Laptop{
+    display: flex;
+    justify-content: space-between;
+}
+.cart{
+    height: 280px;
+    width: 19%;
+    border-radius: 5px;
+    border:1px solid black;
+}
+.cart>img{
+    height: 200px;
+    width: 98%;
+    margin: 3px;
+}
+.cart>button{
+    margin: 3px;
+background-color: aqua;
+}
+.cart p{
+    margin: 3px;
+}
+.cart span{
+    margin: 3px;
+}
+.shoes{
+    display: flex;
+    justify-content: space-between;
+}
+.cart{
+    height: 280px;
+    width: 19%;
+    border-radius: 5px;
+    border:1px solid black;
+}
+.cart>img{
+    height: 200px;
+    width: 98%;
+    margin: 3px;
+}
+.cart>button{
+    margin: 3px;
+background-color: aqua;
+}
+.cart p{
+    margin: 3px;
+}
+.cart span{
+    margin: 3px;
+}
+.iphone{
+    display: flex;
+    justify-content: space-between;
+}
+.cart{
+    height: 280px;
+    width: 19%;
+    border-radius: 5px;
+    border:1px solid black;
+}
+.cart>img{
+    height: 200px;
+    width: 98%;
+    margin: 3px;
+}
+.cart>button{
+    margin: 3px;
+background-color: aqua;
+}
+.cart p{
+    margin: 3px;
+}
+.cart span{
+    margin: 3px;
+}
+.airdops{
+    display: flex;
+    justify-content: space-between;
+}
+.cart{
+    height: 280px;
+    width: 19%;
+    border-radius: 5px;
+    border:1px solid black;
+}
+.cart>img{
+    height: 200px;
+    width: 98%;
+    margin: 3px;
+}
+.cart>button{
+    margin: 3px;
+background-color: aqua;
+}
+.cart p{
+    margin: 3px;
+}
+.cart span{
+    margin: 3px;
+}
