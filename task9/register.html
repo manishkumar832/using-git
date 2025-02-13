@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form tag</title>
+</head>
+
+<body>
+    <center>
+        <h1>Register</h1>
+        <form method="get" action="./registersuccess.html" autocomplete="off">
+            <input type="username" name="username" title="please enter small alphabets" pattern="[a-z]+" placeholder="username" required><br><br>
+            <input type="email" name="email" placeholder="email id" required><br><br>
+            <input type="password" name="password" title="please use 1 uppercase 1 lowercase 1 numeric 1 special character and should be atleast 8 to 16 characters" pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[@#$%^&*]).{8,16}" placeholder="password"><br><br>
+            <input type="submit" value="register"><br><br>
+            <a href="./login.html"> Login Page</a>
+    </center>
+    </form>
+</body>
+
+</html>
